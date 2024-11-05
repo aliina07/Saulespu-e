@@ -8,3 +8,5 @@ zvirbulis = Putns("pelēka","pļava",True)
 print(zvirbulis.krasa)
 print(zvirbulis.vide)
 print(zvirbulis.lido)     
+
+
