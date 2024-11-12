@@ -18,4 +18,5 @@ augstums = int(input("Ievadiet lādītes augstumu (mm): "))
 materiala_cena = float(input("Ievadiet kokmateriāla cenu (EUR/m2): "))
 
 reikuns = ladite_OOP.Rekins(klients,veltijums,[platums,garums,augstums],materiala_cena)
+
 reikuns.izdrukat()
