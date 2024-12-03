@@ -18,6 +18,6 @@ class Student():
             print("Error: Atzīmei ir jābūt no 0 līdz 10.")
 
 
-objekts1 = Student("Anna",5035,[4])
+objekts1 = Student("Anna",5035,4)
 
 print(objekts1.grades)
